@@ -3,3 +3,9 @@
     font-size: 25px;
     background: #cac0c0ea;
 }
+.zoom img{
+        zoom: 0.5;
+}
+img:hover{
+    zoom: 1;
+}
